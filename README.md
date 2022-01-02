@@ -8,12 +8,14 @@
 
 #### Usage of these codes:
 
-1.using 'simulation/abdomen_data_gen' to generate data
+1.using 'simulation/abdomen_data_gen.py' to generate data
 
-2.using 'simulation/abdomen_SA_DNN_train' and 'simulation/abdomen LSQ'to train model and fit the signals using LSQ
+2.using 'simulation/abdomen_SA_DNN_train.py' and 'simulation/abdomen LSQ.py'to train model and fit the signals using LSQ
 
-3.using 'simulation/abdomen_data_conclude' to generate dataframe
+3.using 'simulation/abdomen_data_conclude.py' to generate dataframe
 
-4.using other files to generate images
+4.'model.py' ,'LSQ_AIC_fuc.py' and 'SA_DNN_fuc.py' are the functions or classes other files need
+
+5.using other files to generate images
 
 In case you have any questions, contact me at E-mail: zixiangkuai@126.com
