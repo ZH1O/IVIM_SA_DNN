@@ -8,12 +8,12 @@
 
 #### Usage of these codes:
 
-1.using simulation_signals_generate.ipynb to generate data
+1.using 'simulation/abdomen_data_gen' to generate data
 
-2.using simulation_SA-DNN_train.ipynb and simulation_LSQ-AIC.ipynb to train model and fit the signals
+2.using 'simulation/abdomen_SA_DNN_train' and 'simulation/abdomen LSQ'to train model and fit the signals using LSQ
 
-3.using simulation_dataframe.ipynb to generate a total dataframe,if you run second step in four SNR conditions
+3.using 'simulation/abdomen_data_conclude' to generate dataframe
 
-4.using simulation_boxplot.ipynb,simulation_curve_fitting.ipynb and simulation_rmse.ipynb to generate images
+4.using other files to generate images
 
 In case you have any questions, contact me at E-mail: zixiangkuai@126.com
