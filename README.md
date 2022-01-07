@@ -1,8 +1,8 @@
-# An Unsupervised Deep Learning Approach for Dynamic-Exponential Intravoxel Incoherent Motion Modeling and Parameter Estimation in the Liver
+# An Unsupervised Deep Learning Approach for Dynamic-Exponential Intravoxel Incoherent Motion MRI Modeling and Parameter Estimation in the Liver
 
 ### This repository contains code related to the paper:
 
-### _An Unsupervised Deep Learning Approach for Dynamic-Exponential Intravoxel Incoherent Motion Modeling and Parameter Estimation in the Liver_
+### _An Unsupervised Deep Learning Approach for Dynamic-Exponential Intravoxel Incoherent Motion MRI Modeling and Parameter Estimation in the Liver_
 
 ### by _XinXiang Zhou, XinYu Wang, EnHui Liu, Lan Zhang, HongXia Zhang, XiuShi Zhang, YueMin Zhu, ZiXiang Kuai_
 
