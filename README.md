@@ -10,7 +10,7 @@
 
 1.using 'simulation/abdomen_data_gen.py' to generate data
 
-2.using 'simulation/abdomen_SA_DNN_train.py' and 'simulation/abdomen LSQ.py'to train model and fit the signals using LSQ
+2.using 'simulation/abdomen_SA_DNN_train.py' and 'simulation/abdomen LSQ.py'to train model and fit the signals with LSQ
 
 3.using 'simulation/abdomen_data_conclude.py' to generate dataframe
 
